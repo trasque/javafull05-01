@@ -6,7 +6,7 @@ public class HelloWorld {
         }
         System.out.println("Hello!");
 
-        System.out.println("========");
+        System.out.println("====TEST====");
 
         //同様の処理でIFも使用
         for (int i = 0; i < 11; i++) {
